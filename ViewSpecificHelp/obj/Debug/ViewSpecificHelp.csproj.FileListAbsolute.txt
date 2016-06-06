@@ -59,3 +59,4 @@ C:\Users\brendannichols\Documents\Visual Studio 2015\Projects\ViewSpecificHelp\V
 C:\Users\brendannichols\Documents\Visual Studio 2015\Projects\ViewSpecificHelp\ViewSpecificHelp\bin\Debug\zh-TW\AdWindows.resources.dll
 C:\Users\brendannichols\Documents\Visual Studio 2015\Projects\ViewSpecificHelp\ViewSpecificHelp\obj\Debug\ViewSpecificHelp.dll
 C:\Users\brendannichols\Documents\Visual Studio 2015\Projects\ViewSpecificHelp\ViewSpecificHelp\obj\Debug\ViewSpecificHelp.pdb
+C:\Users\brendannichols\Documents\Visual Studio 2015\Projects\ViewSpecificHelp\ViewSpecificHelp\obj\Debug\ViewSpecificHelp.csprojResolveAssemblyReference.cache

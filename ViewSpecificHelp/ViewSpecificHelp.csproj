@@ -51,6 +51,32 @@
     <Compile Include="Main.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
+  <ItemGroup>
+    <Content Include="Views\Ceiling Plans\LegendsCeilingPlans.html" />
+    <Content Include="Views\Ceiling Plans\GenericCeilingPlans.html" />
+    <Content Include="Views\Ceiling Plans\PartialCeilingPlans.html" />
+    <Content Include="Views\Ceiling Plans\CoordinationCeilingPlans.html" />
+    <Content Include="Views\Ceiling Plans\DesignCeilingPlans.html" />
+    <Content Include="Views\Elevations\PartialCeilingPlans.html" />
+    <Content Include="Views\Floor Plans\LegendsPlans.html" />
+    <Content Include="Views\Floor Plans\GenericPlans.html" />
+    <Content Include="Views\Floor Plans\EquipmentPlans.html" />
+    <Content Include="Views\Floor Plans\PartialFloorPatternPlans.html" />
+    <Content Include="Views\Floor Plans\PartialFinishPlans.html" />
+    <Content Include="Views\Floor Plans\PartialFloorPlans.html" />
+    <Content Include="Views\Floor Plans\FloorPlanOverall.html" />
+    <Content Include="Views\Floor Plans\DimensionalControl.html" />
+    <Content Include="Views\Floor Plans\DemolitionPlan.html" />
+    <Content Include="Views\Floor Plans\FloorPlanPadPlan.html" />
+    <Content Include="Views\Floor Plans\FloorPlanSitePlan.html" />
+    <Content Include="Views\Floor Plans\CodeCompliancePlans.html" />
+    <Content Include="Views\Floor Plans\CoordinationViewWallBlocking.html" />
+    <Content Include="Views\Floor Plans\CoordinationViewAll.html" />
+    <Content Include="Views\Floor Plans\DesignSitePlan.html" />
+    <Content Include="Views\Floor Plans\DesignFloorPlan.html" />
+    <Content Include="Views\Floor Plans\HomeView.html" />
+  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
